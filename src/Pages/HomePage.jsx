@@ -56,6 +56,7 @@ const HomePage = () => {
                     </div>
                 </div>
 
+                {/* Two Column Layout - Form on Left, Table on Right */}
                 <div className="grid grid-cols-1 xl:grid-cols-12 gap-6 sm:gap-8">
                     {/* Form Section - Sidebar Style */}
                     <div className="xl:col-span-4">
