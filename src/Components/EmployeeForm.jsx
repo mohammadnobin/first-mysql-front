@@ -66,7 +66,6 @@ const EmployeeForm = () => {
     return (
         <div className="bg-white p-4 sm:p-6 lg:p-8 rounded-lg border-2 border-purple-100">
             {/* Header */}
-            {/* Header */}
             <div className="mb-6 sm:mb-8">
                 <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-gray-800 mb-2 sm:mb-3">
                     Add New Product
