@@ -10,6 +10,7 @@ const api = axios.create({
 // Employees API
 export const employeeAPI = {
     // Get all employees
+    // Get all employees
     getAll: () => api.get('/employees'),
     
     // Get employee by ID
