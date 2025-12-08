@@ -209,6 +209,8 @@ const EmployeeTable = () => {
             </div>
 
             {/* Edit Modal */}
+            {/* Edit Modal */}
+            {/* Edit Modal */}
             {isModalOpen && (
                 <EmployeeModal
                     employee={selectedEmployee}
